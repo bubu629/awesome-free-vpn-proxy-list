@@ -13,7 +13,7 @@
 > - 🎯 **即刻测试**：提供直连测试订阅，配置即测[cite: 1]
 > 
 > 🌐 **官方门户**：[haovpn.xyz 官网通道](https://haovpn.xyz)  
-> 📌 **测试订阅源**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> 📌 **测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
 
@@ -58,7 +58,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 
 > 🔗 **Official Portal**: [Register at haovpn.xyz](https://haovpn.xyz) *(Use Invite Code: `cbT7Rfxg`)*[cite: 3]  
 > 📥 **Direct Test Subscription**:  
-> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
