@@ -5,9 +5,9 @@
 精选全网稳定可靠的免费网络加速、代理客户端及优质免费高速机场资源合集，持续跟踪与筛选[cite: 1]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > ### 🔥 本周精选推荐服务商（限时免费福利）
-> 
+> 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > - 🎁 **迎新礼包**：新用户免费注册即领 **200 GB** 高速不限速流量[cite: 1]
 > - ⚡ **多端覆盖**：支持 Windows / macOS / iOS / Android 全平台通用[cite: 1]
 > - 🎯 **即刻测试**：提供直连测试订阅，配置即测[cite: 1]
@@ -15,7 +15,7 @@
 > 🌐 **官方门户**：[haovpn.xyz 官网通道](https://haovpn.xyz)  
 > 📌 **测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📚 客户端与工具导航
 
@@ -23,7 +23,7 @@
 - **macOS**: Clash Verge / Surge / Mihomo Party
 - **Android**: Clash Meta for Android / NekoBox / v2rayNG
 - **iOS**: Shadowrocket / Loon / Quantumult X
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
 
 ## 🔗 旗下开源项目
