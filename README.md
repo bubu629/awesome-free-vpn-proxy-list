@@ -16,7 +16,8 @@
 > 📌 **测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 📚 客户端与工具导航
 
 - **Windows**: Clash Verge Rev / v2rayN / Sing-box Windows
@@ -31,7 +32,8 @@
 - [V2Ray & Sing-Box 协议聚合中心](../v2ray-singbox-hysteria2-nodes)
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 <details>
 <summary>🔍 综合导航与加速热搜索引（点击展开）</summary>
 
