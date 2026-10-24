@@ -12,21 +12,21 @@
 > - ⚡ **多端覆盖**：支持 Windows / macOS / iOS / Android 全平台通用[cite: 1]
 > - 🎯 **即刻测试**：提供直连测试订阅，配置即测[cite: 1]
 > 
-> 🌐 **官方门户**：[haovpn.xyz 官网通道](https://haovpn.xyz)  
+> 🌐 **官方门户**：[haovpn.xyz 官网通道](https://haovpn.xyz)  推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 > 📌 **测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 📚 客户端与工具导航
-
+推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 - **Windows**: Clash Verge Rev / v2rayN / Sing-box Windows
 - **macOS**: Clash Verge / Surge / Mihomo Party
 - **Android**: Clash Meta for Android / NekoBox / v2rayNG
 - **iOS**: Shadowrocket / Loon / Quantumult X
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
-
+推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 ## 🔗 旗下开源项目
 - [Clash Meta & Verge 规则优化库](../free-clash-meta-verge-rules)
 - [V2Ray & Sing-Box 协议聚合中心](../v2ray-singbox-hysteria2-nodes)
