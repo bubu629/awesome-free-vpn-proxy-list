@@ -2,6 +2,16 @@
 类似 Awesome 风格的技术资源与免费 VPN 导航，Star 和 Fork。
 # 🌟 Awesome Free VPN & Proxy List | 全网优质免费代理工具导航
 
+> ⚠️ **高阶用户注意：为什么换了节点，Claude / ChatGPT / 跨境店铺还是被封？**
+> 
+> 普通 VPN 仅改变网络出口，无法掩盖您本地电脑的底层硬件指纹与代理协议特征。如果您从事以下**高风控业务**，强烈建议升级使用我们的姐妹项目 **[MacHub — 加拿大原生 Mac mini 独享物理机](https://machub.co/)**：
+> * 🤖 **AI 编程防封**：原生加拿大本地宽带 + 真实 Apple 硬件，100% 告别 Claude / Cursor 封号与验证码。
+> * 🛍️ **跨境与多账号防关联**：Apple Developer 开发者账号、Stripe/PayPal 离岸网银、TikTok 矩阵物理级安全隔离。
+> * ⚡ **远程算力与 iOS 打包**：独享 M4/M6 芯片物理机，全权限 SSH/远程桌面秒连，测试机仅需 **$10/月起**！
+> 
+> 👉 **[点击前往 MacHub 官网选配](https://machub.co/)** | 💬 **[点击在 WhatsApp 咨询技术工程师](https://api.whatsapp.com/send?phone=17052807570)**
+
+
 精选全网稳定可靠的免费网络加速、代理客户端及优质免费高速机场资源合集，持续跟踪与筛选[cite: 1]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
